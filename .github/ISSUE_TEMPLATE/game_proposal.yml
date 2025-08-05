@@ -34,7 +34,7 @@ body:
   - type: textarea
     id: research_reference
     attributes:
-      label: 📚 Scientific Backing
+      label: 📚 Scientific Backing (required)
       description: Share links to any relevant scientific studies or journals that support your claim.
       placeholder: "For example: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8573707/"
     validations:
