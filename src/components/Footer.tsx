@@ -44,7 +44,7 @@ export default function Footer() {
                         <p>Contribution</p>
                         <Link href={"https://github.com/ajaynegi45/Old-School-Game/issues"}>Issues</Link>
                         <Link href={"https://github.com/ajaynegi45/Old-School-Game/blob/main/README.md"}>About us</Link>
-                        <Link href={"https://github.com/ajaynegi45/Old-School-Game"}>Contribution</Link>
+                        <Link href={"/contributors"}>Contribution</Link>
                     </div>
                 </div>
             </div>
